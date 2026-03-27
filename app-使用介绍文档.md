@@ -5,13 +5,7 @@
 ## 产品视觉预览
 
 ### 宣传视觉 1
-![戒烟助手宣传视觉 1](/Users/kevin/WorkBuddy/Claw/generated-images/一张高端移动应用宣传图_主题是戒烟打卡_App_深色背景搭配_2026-03-27T01-31-53.png)
-
-### 实际界面示意
-![戒烟助手实际界面示意](/Users/kevin/WorkBuddy/Claw/quit-smoking-screenshot.png)
-
-### 宣传视觉 2
-![戒烟助手宣传视觉 2](/Users/kevin/WorkBuddy/Claw/generated-images/一张用于健康类_App_介绍文档的视觉海报_主题是戒烟带来的_2026-03-27T01-31-47.png)
+<img width="1024" height="1024" alt="一张高端移动应用宣传图_主题是戒烟打卡_App_深色背景搭配_2026-03-27T01-31-53" src="https://github.com/user-attachments/assets/2cb9e17a-4ae8-45db-92b9-04fd1e9367b4" />
 
 ## 为什么值得下载
 - **打开就能用**：不用注册，不用折腾账号，核心数据直接保存在本机。
