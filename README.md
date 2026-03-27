@@ -5,6 +5,8 @@
 反馈很直接：每坚持一天，数据都会往上走，这种正反馈比空喊“加油”更有用。
 1. App 简介
 戒烟助手是一款以“本地记录 + 日历打卡 + 省钱统计 + 戒烟科普”为核心的轻量应用。
+<img width="1024" height="1024" alt="一张高端移动应用宣传图_主题是戒烟打卡_App_深色背景搭配_2026-03-27T01-31-53" src="https://github.com/user-attachments/assets/7f6b02c3-52a1-441e-89b6-25db28c40344" />
+<img width="1024" height="1024" alt="一张用于健康类_App_介绍文档的视觉海报_主题是戒烟带来的_2026-03-27T01-31-47" src="https://github.com/user-attachments/assets/cd521816-18a0-4191-9c56-eba85dd5cfce" />
 
 它的重点不是喊口号，而是把戒烟这件事变成每天都能看到的进步：
 
