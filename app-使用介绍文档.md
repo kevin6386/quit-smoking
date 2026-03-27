@@ -6,7 +6,8 @@
 
 ### 宣传视觉 1
 <img width="1024" height="1024" alt="一张高端移动应用宣传图_主题是戒烟打卡_App_深色背景搭配_2026-03-27T01-31-53" src="https://github.com/user-attachments/assets/2cb9e17a-4ae8-45db-92b9-04fd1e9367b4" />
-<img width="1024" height="1024" alt="一张高端移动应用宣传图_主题是戒烟打卡_App_深色背景搭配_2026-03-27T01-31-53" src="https://github.com/user-attachments/assets/b5286c2b-dd85-4f17-86f7-638725826b0c" />
+
+<img width="1024" height="1024" alt="一张用于健康类_App_介绍文档的视觉海报_主题是戒烟带来的_2026-03-27T01-31-47" src="https://github.com/user-attachments/assets/040b6bd0-17bf-489f-be27-e5f664643267" />
 
 ## 为什么值得下载
 - **打开就能用**：不用注册，不用折腾账号，核心数据直接保存在本机。
